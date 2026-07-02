@@ -3,6 +3,11 @@
  SISTEMA INTEGRAL DE GESTIÓN DE CLIENTES, SERVICIOS Y RESERVAS
  VERSIÓN UNIFICADA (un solo archivo .py)
 ================================================================================
+#Integrantes:
+Daniel Alejandro Santamaría Torres
+Omar Camilo Santiago
+Paola Rocío Salazar Meneses
+================================================================================
 
 Este archivo agrupa, en un único módulo, lo que originalmente estaba
 dividido en:
